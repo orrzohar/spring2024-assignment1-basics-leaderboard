@@ -26,6 +26,7 @@ In your pull request description, you should include:
 | sundararajan   |            3.55 | https://api.wandb.ai/links/sundararajan-team/hfzoaoof |
 | Jason Wang     |            3.56 | https://api.wandb.ai/links/blahblahhhj/wzewv5jr |
 | rohin          |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
+| orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
 | rishabh        |            3.64 | https://api.wandb.ai/links/rishabh-ranjan/amq3n70d |
 | chengshu       |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
 | imsanti        |            3.79 | https://api.wandb.ai/links/estanfor/6ia1n3zv |
